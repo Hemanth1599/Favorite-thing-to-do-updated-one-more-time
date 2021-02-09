@@ -1,0 +1,34 @@
+body{
+  text-align: center;
+  background-color: orange;
+}
+#cricket{
+  width: 700px;
+  border-radius: 4%
+}
+p {
+  font-size: 24px;
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    border: solid;
+    border-color: black;
+    cursor: pointer;
+    color: aqua;
+}
+.links:hover {
+    color: cadetblue;
+    font-size: 23px;
+}
+.line {
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+}
+html {
+    scroll-behavior: smooth;
+}
